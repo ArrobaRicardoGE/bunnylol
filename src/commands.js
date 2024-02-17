@@ -121,6 +121,10 @@ export const COMMANDS = {
         name: "UP Moodle",
         url: "https://upmoodlecloud.up.edu.mx"
     },
+    chat: {
+        name: "ChatGPT",
+        url: "https://chat.openai.com"
+    },
     DEFAULT: {
         name: "Default - Google Search",
         url: "https://google.com/",
