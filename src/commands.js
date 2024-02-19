@@ -125,6 +125,10 @@ export const COMMANDS = {
         name: "ChatGPT",
         url: "https://chat.openai.com"
     },
+    etn: {
+        name: "ETN Autobuses",
+        url: "https://etn.com.mx/"
+    },
     DEFAULT: {
         name: "Default - Google Search",
         url: "https://google.com/",
