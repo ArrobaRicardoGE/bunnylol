@@ -106,7 +106,8 @@ export const COMMANDS = {
     },
     c: {
         name: "Google Calendar",
-        url: "https://calendar.google.com/calendar/r"
+        url: "https://calendar.google.com/calendar/r", 
+        searchurl: "https://calendar.google.com/calendar/u/"
     },
     wiki: {
         name: "Wikipedia",
