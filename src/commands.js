@@ -134,6 +134,10 @@ export const COMMANDS = {
         name: "draw.io",
         url: "https://app.diagrams.net/",
     },
+    pp: {
+        name: "paypal",
+        url: "https://www.paypal.com/",
+    },
     DEFAULT: {
         name: "Default - Google Search",
         url: "https://google.com/",
