@@ -135,8 +135,13 @@ export const COMMANDS = {
         url: "https://app.diagrams.net/",
     },
     pp: {
-        name: "paypal",
+        name: "PayPal",
         url: "https://www.paypal.com/",
+    },
+    az: {
+        name: "Amazon",
+        url: "https://www.amazon.com.mx/",
+        searchurl: "https://www.amazon.com.mx/s?k=",
     },
     DEFAULT: {
         name: "Default - Google Search",
