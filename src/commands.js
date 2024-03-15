@@ -146,7 +146,7 @@ export const COMMANDS = {
     map: {
         name: "Google Maps",
         url: "https://www.google.com/maps/",
-        searchurl: "https://www.google.com/maps/search/test/"
+        searchurl: "https://www.google.com/maps/search/"
     },
     DEFAULT: {
         name: "Default - Google Search",
