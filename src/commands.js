@@ -143,6 +143,11 @@ export const COMMANDS = {
         url: "https://www.amazon.com.mx/",
         searchurl: "https://www.amazon.com.mx/s?k=",
     },
+    map: {
+        name: "Google Maps",
+        url: "https://www.google.com/maps/",
+        searchurl: "https://www.google.com/maps/search/test/"
+    },
     DEFAULT: {
         name: "Default - Google Search",
         url: "https://google.com/",
